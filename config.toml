@@ -1,0 +1,11 @@
+baseURL = 'https://fund.suddengunter.com/'
+languageCode = 'uk-UA'
+title = 'Допоможи ППОП - Харків'
+theme = "arabica"
+author = "suddengunter"
+plainify = false
+
+[params]
+    dateFormatToUse = "2006-01-02"
+    replaceGoogleFonts = "fonts.loli.net"
+    twitter = "suddengunter"
