@@ -4,13 +4,9 @@ linktitle: Як можна допомогти?
 menu: main
 title: Як можна допомогти?
 weight: 10
+image: "/logo.png"
 
 ---
-
-
-
-
-{{< figure src="/logo.png" >}}
 
 ## Для кого збирається допомога?
 
