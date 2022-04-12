@@ -10,7 +10,7 @@ weight: 10
 
 
 
-{{< figure src="/static/logo.png" >}}
+{{< figure src="/logo.png" >}}
 
 ## Для кого збирається допомога?
 
