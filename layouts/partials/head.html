@@ -30,7 +30,9 @@
     {{ else }}
     <link href="https://fonts.googleapis.com/css?family=Bree+Serif|Lato:100,100i,300,300i,400,400i,700,700i|Source+Code+Pro:300,400,500,700" rel="stylesheet">
     {{ end }}
-
+    {{ range .Site.Params.custom_css -}}
+    <link rel="stylesheet" href="{{ . | absURL }}">
+    {{- end }}
     <!-- Bigfoot - popover footnotes -->
     <script src="https://cdn.jsdelivr.net/npm/jquery@1.12.4/dist/jquery.min.js"></script>
     <script type="text/javascript" src="{{ "assets/bigfoot/dist/bigfoot.js" | relURL }}"></script>

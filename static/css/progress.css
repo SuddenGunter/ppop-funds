@@ -1,0 +1,14 @@
+.wrapper {
+    width: 100%;
+}
+
+.progress-bar {
+    width: 100%;
+    background-color: #e0e0e0;
+}
+
+.progress-bar-fill {
+    display: block;
+    height: 22px;
+    background-color: #659cef;
+}
