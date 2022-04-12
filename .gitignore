@@ -14,4 +14,4 @@
 # Dependency directories (remove the comment below to include it)
 # vendor/
 
-.hugo_builds.lock
+.hugo_build.lock
