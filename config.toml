@@ -9,4 +9,4 @@ plainify = false
     dateFormatToUse = "2006-01-02"
     replaceGoogleFonts = "fonts.loli.net"
     twitter = "suddengunter"
-    custom_css = ["css/progress.css"]
+    custom_css = ["css/progress.css","css/spoiler.css"]
